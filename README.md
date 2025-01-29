@@ -43,7 +43,7 @@ Here are comprehensive details about the projects and the skills applied:
     * Retrieve data from web APIs and load it into a SQL database.
     * Build a custom web API to serve model predictions
 
-Thank you to WorldQuant for providing such an incredible learning experience and Professor Nicholas Cifuentes-Goodbody for his guidance throughout the program. I strongly recommend this curriculum to everyone fascinated by the exciting realm of Data Science!
+Thank you to WorldQuant and Professor Nicholas Cifuentes-Goodbody for providing such an incredible learning experience. I strongly recommend this curriculum to everyone fascinated by the exciting realm of Data Science!
 
 ---
 **NOTE:** *The code content of each project cannot be uploaded due to copyright issues.*
