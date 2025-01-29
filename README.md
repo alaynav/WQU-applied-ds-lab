@@ -1,5 +1,5 @@
 # WQU Applied Data Science Lab
-**Description:** Here you can find an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding and practical application of key data science concepts such as data exploration, cleaning, analysis, and modeling. As a self-paced program, I spent one month per project and over 200 hours in Python/Jupyter Notebook.
+**Description:** Here you can find an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding and practical application of key data science concepts such as data exploration, cleaning, analysis, and modeling. As a self-paced program, I devoted one month per project and over 200 hours in Python/Jupyter Notebook.
 
 Here are more details about the projects and skills applied:
 
