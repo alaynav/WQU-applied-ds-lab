@@ -38,7 +38,7 @@ Here are comprehensive details about the projects and the skills applied:
     * Designed experiments and analyze results using statistical methods
     * Built an interactive web application for data visualization and analysis
 
-8) 𝗩𝗢𝗟𝗔𝗧𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥𝗘𝗖𝗔𝗦𝗧𝗜𝗡𝗚 𝗜𝗡 𝗜𝗡𝗗𝗜𝗔:Learners create a GARCH time series model to predict asset volatility. They acquire stock data through an API, clean and store it in a SQLite database, and build their own API to serve model predictions.
+8) 𝗩𝗢𝗟𝗔𝗧𝗜𝗟𝗜𝗧𝗬 𝗙𝗢𝗥𝗘𝗖𝗔𝗦𝗧𝗜𝗡𝗚 𝗜𝗡 𝗜𝗡𝗗𝗜𝗔: Learners create a GARCH time series model to predict asset volatility. They acquire stock data through an API, clean and store it in a SQLite database, and build their own API to serve model predictions.
     * Created a GARCH time series model to predict asset volatility
     * Retrieve data from web APIs and load it into a SQL database.
     * Build a custom web API to serve model predictions
