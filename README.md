@@ -1,7 +1,7 @@
 # WQU Applied Data Science Lab
-**Description:** Here you can find an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding of key data science concepts through data exploration, cleaning, analysis, and modeling. Using real-world datasets, I devoted one month per project and over 200 hours in Python/Jupyter Notebook.
+**Description:** This is an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding of key data science concepts through data exploration, cleaning, analysis, and modeling. Using real-world datasets, I devoted one month per project and over 200 hours in Python/Jupyter Notebook.
 
-Here are comprehensive details about the projects and the skills applied:
+Here are the projects and respective skills applied during each:
 
 1) 𝗛𝗢𝗨𝗦𝗜𝗡𝗚 𝗜𝗡 𝗠𝗘𝗫𝗜𝗖𝗢: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
     * Explored the impact of property size versus location on real estate prices
