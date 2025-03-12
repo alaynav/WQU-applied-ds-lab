@@ -47,4 +47,4 @@ Thank you to WorldQuant for providing such an incredible resource and learning e
 
 ---
 **Note**: *The code content of each project cannot be uploaded due to copyright issues.*  
-**Verify**: [https://www.credly.com/badges/6182d8c4-d30d-4fce-873b-ed3daca942fa/public_url]
+**Verify**: https://www.credly.com/badges/6182d8c4-d30d-4fce-873b-ed3daca942fa/public_url
