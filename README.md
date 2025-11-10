@@ -1,6 +1,8 @@
-# WQU Applied Data Science Lab
+# WorldQuant Applied Data Science Lab
 
-**Note**: The code content this project cannot be uploaded due to copyright.   
+**Note**: The code content this project cannot be uploaded due to copyright.  
+**Verification**: [Credly Badge](https://www.credly.com/badges/6182d8c4-d30d-4fce-873b-ed3daca942fa/public_url)
+
 
 Below is an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding of key data science concepts through data exploration, cleaning, analysis, and modeling. Using real-world datasets, I devoted one month per project and over 200 hours to Python/Jupyter Notebook.
 
