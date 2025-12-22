@@ -45,5 +45,3 @@ Below is an overview of all eight projects that I completed during my enrollment
     * Created a GARCH time series model to predict asset volatility
     * Retrieve data from web APIs and load it into a SQL database.
     * Build a custom web API to serve model predictions
-
-Thank you to WorldQuant for providing such an incredible resource and learning experience!  
