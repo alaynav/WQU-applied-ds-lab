@@ -40,9 +40,9 @@ Below is an overview of all eight projects that I completed during my enrollment
     * Designed experiments and analyze results using statistical methods
     * Built an interactive web application for data visualization and analysis
 
-**Note**: The code content this project cannot be uploaded due to copyright.  
-
 8) **Volatility Forecasting in India**: Learners create a GARCH time series model to predict asset volatility. They acquire stock data through an API, clean and store it in a SQLite database, and build their own API to serve model predictions.
     * Created a GARCH time series model to predict asset volatility
     * Retrieve data from web APIs and load it into a SQL database.
     * Build a custom web API to serve model predictions
+
+**Note**: The code content this project cannot be uploaded due to copyright.  
