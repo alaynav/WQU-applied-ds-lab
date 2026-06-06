@@ -3,7 +3,7 @@
 **Verification**: [Credly Badge](https://www.credly.com/badges/6182d8c4-d30d-4fce-873b-ed3daca942fa/public_url)
 
 
-Below is an overview of all eight projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding of key data science concepts through data exploration, cleaning, analysis, and modeling. Using real-world datasets, I devoted one month per project and over 200 hours to Python/Jupyter Notebook.
+Below is an overview of all 8 projects that I completed during my enrollment at WorldQuant University (WQU), each designed to enhance my understanding of key data science concepts through data exploration, cleaning, analysis, and modeling. Using real-world datasets, I devoted one month per project and over 250 hours to Python/Jupyter Notebook, SQL, Linux command line, MongoDB, SQLite, machine learning pipelines, statistical modeling, time-series forecasting, dashboard development, and API deployment.
 
 1) **Housing in Mexico**: Learners use a dataset of 21,000 properties to determine if real estate prices are influenced more by property size or location. They import and clean data from a CSV file, build data visualizations, and examine the relationship between two variables using correlation.
     * Explored the impact of property size versus location on real estate prices
@@ -45,4 +45,4 @@ Below is an overview of all eight projects that I completed during my enrollment
     * Retrieve data from web APIs and load it into a SQL database.
     * Build a custom web API to serve model predictions
 
-**Note**: The code content this project cannot be uploaded due to copyright.  
+**Note**: Project code cannot be uploaded publicly due to copyright restrictions.
